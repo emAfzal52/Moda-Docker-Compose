@@ -13,8 +13,8 @@
 13. # 1. ( update core_config_data set value = "opensearch" where path = "catalog/search/opensearch_server_hostname"; )
     # 2. ( update core_config_data set value = "opensearch" where path = "catalog/search/engine"; )
     # 3. ( update core_config_data set value = "9200" where path = "catalog/search/opensearch_server_port";  )
-14. Run ..command.. ( bin/magento setup:upgrade ) on terminal into CoxandCox directory 
-15. Run ..command.. ( bin/restart ) on terminal into CoxandCox directory to Restart all Container
-16. Refresh Browser a few second later 
+14. # Run ..command.. ( bin/magento setup:upgrade ) on terminal into CoxandCox directory 
+15. # Run ..command.. ( bin/restart ) on terminal into CoxandCox directory to Restart all Container
+16. # Refresh Browser a few second later 
  
  
